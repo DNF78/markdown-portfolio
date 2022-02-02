@@ -1,1 +1,17 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Key Attibutes**
+
+* Team worker
+* Methodical
+* Customer orientated
+* Dilligent
+* Self motivated
+
+**Language & Software**
+
+* Basic for Android *self taught*
+* Python *Dundee University Undergraduate Course*
+* Wolfram Mathematica *Aberdeen University Postgraduate Course (15 credits)*
+* Various Accoutnancy suites
+* MS Office Suites
+* Working understanding of Linux
+

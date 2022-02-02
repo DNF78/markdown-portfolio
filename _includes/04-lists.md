@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Cats n Dogs 🐈 🐕 
+* Tech 🖥️
+* Reading (Orwell, joyce, Shelly) 📚
+* Travel ✈️ 🚗 🚆 ⛴️

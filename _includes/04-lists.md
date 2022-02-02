@@ -2,5 +2,5 @@
 
 * Cats n Dogs 🐈 🐕 
 * Tech 🖥️
-* Reading (Orwell, joyce, Shelly) 📚
+* Reading (Orwell, Joyce, Shelly) 📚
 * Travel ✈️ 🚗 🚆 ⛴️
